@@ -2,6 +2,10 @@ html {
   border: 30px;
   border-color: black solid;
 }
+body {
+  margin: 0px;
+  padding: 0px;
+}
 .header1 {
   background: blue;
   text-align: center;
