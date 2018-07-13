@@ -1,0 +1,49 @@
+html {
+  border: 30px;
+  border-color: black solid;
+}
+.header1 {
+  background: blue;
+  text-align: center;
+  line-height: 100%;
+  padding: 30%;
+  color: azure;
+  padding: 5%;
+  border: black solid;
+  border-radius: 2px;
+  border-width: 10px;
+}
+.menu {
+  text-align: left;
+  background: purple;
+  color: aliceblue;
+  float: left;
+  padding-bottom: 8%;
+  padding-right: 5%;
+  padding-top: 8%;
+  padding-left: 5%;
+  border: black solid;
+  border-radius: 2px;
+  border-width: 10px;
+  position: relative;
+  margin-left: auto;
+  margin-top: auto;
+}
+.heading {
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+.content {
+  background: palevioletred;
+  margin: auto;
+  font-family: cursive;
+  border: black solid;
+  border-radius: 2px;
+  border-width: 10px;
+  width: 60%;
+  position: relative;
+  padding-top: 0%;
+}
+.ad1 {
+}
