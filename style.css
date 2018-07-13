@@ -19,12 +19,13 @@ html {
   float: left;
   padding-bottom: 8%;
   padding-right: 5%;
-  padding-top: 8%;
-  padding-left: 5%;
+  padding-top: 9%;
+  padding-left: 6%;
   border: black solid;
   border-radius: 2px;
   border-width: 10px;
   position: relative;
+  top: -30px;
   margin-left: auto;
 }
 .heading {
@@ -41,7 +42,8 @@ html {
   border-width: 10px;
   width: 60%;
   position: relative;
-  padding-top: 0%;
+  top: -43px;
+  padding-top: -90px;
 }
 .ad {
   text-align: center;
@@ -50,12 +52,13 @@ html {
   float: right;
   padding-top: 8%;
   padding-bottom: 8%;
-  padding-right: 5%;
+  padding-right: 9%;
   padding-left: 5%;
   border: black solid;
   border-radius: 2px;
   border-width: 10px;
-  position: inherit;
+  position: relative;
+  top: -402px;
   margin: auto;
 }
 footer {
@@ -67,4 +70,6 @@ footer {
   border: black solid;
   border-radius: 2px;
   border-width: 10px;
+  position: relative;
+  bottom: 45px;
 }
